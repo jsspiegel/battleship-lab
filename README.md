@@ -8,3 +8,5 @@ Welcome to Battleship! This version works a bit differently: instead of having 5
 3. When the "Fire" button is clicked, check if they hit the ship they specified. The row should be input as a number between 0 and 7, and the column as a letter between A and H. If it's a hit, change the emoji to 💣. If it's a miss, change the emoji to 🙅.
 
 4. When you win, have the text "You win, click to play again" pop up, and have the page refresh when you click the link. Do the same thing for a loss.
+
+WRITE YOUR CODE IN MAIN.JS; DO NOT EDIT BATTLESHIP.JS
